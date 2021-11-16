@@ -1,5 +1,7 @@
 import { Fragment } from 'react';
 
+import mealsImage from '../../assets/meals.jpg';
+
 const Header = props => {
   return <Fragment>
     <header>
